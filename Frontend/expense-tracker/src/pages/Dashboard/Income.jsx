@@ -5,4 +5,4 @@ const Income = () => {
     )
 }
 
-export default Income
+export default Income;
